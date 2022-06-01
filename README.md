@@ -1,5 +1,7 @@
-![MC](img.png)
 ### Hi I'm Carla 👋🏼👩🏽‍💻
+![MC](img.png)
+### Find me around the web 🌎: 
+- Sharing updates on <a href="www.linkedin.com/in/mariacarlagonzalezgonzalez/">LinkedIn</a> 💼
 
 
 
