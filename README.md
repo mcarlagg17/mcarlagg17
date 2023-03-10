@@ -5,15 +5,23 @@
 
 - Sharing updates on <a href="https://www.linkedin.com/in/mariacarlagonzalezgonzalez/">LinkedIn</a> 💼
 
-## 🚀 My skills
+### 🚀 Programming languages and tools:
 
-- <img src="https://img.icons8.com/color/48/000000/python.png"/>
-- <img src="https://img.icons8.com/color/48/000000/sql.png"/>
-- <img src="https://img.icons8.com/color/48/000000/machine-learning.png"/>
-- <img src="https://img.icons8.com/color/48/000000/tableau-software.png"/>
+<img src="https://img.icons8.com/color/48/000000/python.png"/>
+<img src="https://icons8.com/icon/r5Y16PcDkoWI/matlab"/>
+<img src="https://img.icons8.com/color/48/000000/sql.png"/>
+<img src="https://icons8.com/icon/20906/git"/>
+<img src="https://icons8.com/icon/xSkewUSqtErH/pandas"/>
+<img src="https://icons8.com/icon/n3QRpDA7KZ7P/tensorflow"/>
+<img src="https://icons8.com/icon/aR9CXyMagKIS/numpy"/>
+
+<img src="https://icons8.com/icon/48455/visual-studio"/>
+<img src="https://icons8.com/icon/84710/bootstrap"/>
+<img src="https://icons8.com/icon/31085/heroku"/>
 
 
-## 📈 GitHub statistics
+
+### 📈 GitHub statistics:
 
 <a href="https://github.com/mcarlagg17">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mcarlagg17&show_icons=true&theme=radical" />
