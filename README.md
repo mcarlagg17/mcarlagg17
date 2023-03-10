@@ -8,17 +8,16 @@
 ### 🚀 Programming languages and tools:
 
 <img src="https://img.icons8.com/color/48/000000/python.png"/>
-<img src="https://icons8.com/icon/r5Y16PcDkoWI/matlab.png"/>
+<img src="https://img.icons8.com/ios-filled/50/000000/matlab.png"/>
 <img src="https://img.icons8.com/color/48/000000/sql.png"/>
-<img src="https://icons8.com/icon/20906/git"/>
-<img src="https://icons8.com/icon/xSkewUSqtErH/pandas"/>
-<img src="https://icons8.com/icon/n3QRpDA7KZ7P/tensorflow"/>
-<img src="https://icons8.com/icon/aR9CXyMagKIS/numpy"/>
+<img src="https://img.icons8.com/color/48/000000/git.png"/>
+<img src="https://img.icons8.com/color/48/000000/pandas.png"/>
+<img src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
+<img src="https://img.icons8.com/ios-filled/50/000000/numpy.png"/>
+<img src="https://img.icons8.com/color/48/000000/scikit-learn.png"/>
 
-<img src="https://icons8.com/icon/48455/visual-studio"/>
-<img src="https://icons8.com/icon/84710/bootstrap"/>
-<img src="https://icons8.com/icon/31085/heroku"/>
-
+<img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>
+<img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
 
 
 ### 📈 GitHub statistics:
