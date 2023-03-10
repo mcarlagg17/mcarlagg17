@@ -8,7 +8,7 @@
 ### 🚀 Programming languages and tools:
 
 <img src="https://img.icons8.com/color/48/000000/python.png"/>
-<img src="https://icons8.com/icon/r5Y16PcDkoWI/matlab"/>
+<img src="https://icons8.com/icon/r5Y16PcDkoWI/matlab.png"/>
 <img src="https://img.icons8.com/color/48/000000/sql.png"/>
 <img src="https://icons8.com/icon/20906/git"/>
 <img src="https://icons8.com/icon/xSkewUSqtErH/pandas"/>
