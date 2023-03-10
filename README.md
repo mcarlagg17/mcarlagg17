@@ -4,10 +4,10 @@
 - Sharing updates on <a href="https://www.linkedin.com/in/mariacarlagonzalezgonzalez/">LinkedIn</a> 💼
 
 
-## 📈 Estadísticas de GitHub
+### 📈 Estadísticas de GitHub
 
 <a href="https://github.com/tu_nombre">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mcarlagg17&show_icons=true&theme=radical" />
+  <!--img height="180em" src="https://github-readme-stats.vercel.app/api?username=mcarlagg17&show_icons=true&theme=radical" /-->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcarlagg17&theme=radical&layout=compact" />
 </a>
 <!--
