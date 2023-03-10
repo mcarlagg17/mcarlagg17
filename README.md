@@ -5,11 +5,18 @@
 
 - Sharing updates on <a href="https://www.linkedin.com/in/mariacarlagonzalezgonzalez/">LinkedIn</a> 💼
 
+## 🚀 My skills
 
-### 📈 Estadísticas de GitHub:
+- <img src="https://img.icons8.com/color/48/000000/python.png"/>
+- <img src="https://img.icons8.com/color/48/000000/sql.png"/>
+- <img src="https://img.icons8.com/color/48/000000/machine-learning.png"/>
+- <img src="https://img.icons8.com/color/48/000000/tableau-software.png"/>
 
-<a href="https://github.com/tu_nombre">
-  <!img height="180em" src="https://github-readme-stats.vercel.app/api?username=mcarlagg17&show_icons=true&theme=radical" />
+
+## 📈 GitHub statistics
+
+<a href="https://github.com/mcarlagg17">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mcarlagg17&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcarlagg17&theme=radical&layout=compact" />
 </a>
 <!--
