@@ -25,8 +25,8 @@
 ### 📈 GitHub statistics:
 
 <a href="https://github.com/mcarlagg17">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mcarlagg17&show_icons=true&theme=vue-dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcarlagg17&theme=vue-dark&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mcarlagg17&show_icons=true&theme=nord" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcarlagg17&theme=nord&layout=compact" />
 </a>
 <!--
 **mcarlagg17/mcarlagg17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
