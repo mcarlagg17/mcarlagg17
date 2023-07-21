@@ -8,7 +8,15 @@
 
 
 ### 🚀 Programming languages and tools:
-
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)
+![](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 <div>
 <img src="https://img.icons8.com/color/48/000000/python.png"style="display: inline-block"; width="48" height="48";/>
 <img src="https://img.icons8.com/plasticine/512/matlab.png"style="display: inline-block"; width="48" height="48";/>
